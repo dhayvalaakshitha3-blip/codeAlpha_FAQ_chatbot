@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language used for web development, artificial intelligence, data science, automation and many other applications."
+    },
+    {
+        "question": "How can I learn Python?",
+        "answer": "You can learn Python by studying the basics, practicing small programs, solving coding problems and building projects."
+    },
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence is a field of computer science that develops systems capable of performing tasks that normally require human intelligence."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a branch of artificial intelligence where computers learn patterns from data and use those patterns to make predictions or decisions."
+    },
+    {
+        "question": "What is an internship?",
+        "answer": "An internship is a temporary learning opportunity where students gain practical experience in a professional environment."
+    },
+    {
+        "question": "What is GitHub?",
+        "answer": "GitHub is a platform used to store, manage and collaborate on software projects using Git."
+    },
+    {
+        "question": "What is HTML?",
+        "answer": "HTML stands for HyperText Markup Language. It is used to structure content on web pages."
+    },
+    {
+        "question": "What is CSS?",
+        "answer": "CSS stands for Cascading Style Sheets. It is used to style and design web pages."
+    },
+    {
+        "question": "What is a database?",
+        "answer": "A database is an organized collection of data that can be stored, accessed and managed efficiently."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a software application that communicates with users and provides responses to their questions or requests."
+    }
+]
